@@ -1,4 +1,4 @@
-module github.com/gospider007/requests
+module github.com/nhdms/requests
 
 go 1.21.3
 
